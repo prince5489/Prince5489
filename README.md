@@ -1,15 +1,24 @@
 <div align="center">
 
-# PRINCE YADAV
+# Hi, I'm Prince Yadav 👋
 
-### FULL-STACK DEVELOPER & SOFTWARE DEVELOPER
+### Full-Stack Developer & Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&center=true&vCenter=true&width=520&lines=Building+an+AI-Powered+Mock+Interview+System;Learning+Django;Frontend+%7C+Backend+%7C+APIs+%7C+Databases" alt="Typing SVG" />
 
 <p>
-  <a href="https://www.linkedin.com/in/prince-yadav-dev/">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/prince5489">LeetCode</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:py0020524@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/prince-yadav-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/prince5489">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:py0020524@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1-FJaFCh7mJ5syW9muyzZrkfI7EWXA2h0/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=prince5489&label=PROFILE%20VIEWS&color=555555&style=flat-square" alt="Profile Views"/>
@@ -18,94 +27,70 @@
 
 ---
 
-## ABOUT
+## 🚀 About Me
 
-I’m a **Full-Stack Developer & Software Developer** focused on building modern and user-friendly applications.
+I'm a **Full-Stack Developer** who enjoys building modern, user-friendly applications end to end — from interface to database.
 
-Currently working on an **AI-Powered Mock Interview & Evaluation System** and learning **Django**.
-
-**Ask me about**
-Frontend · Backend · API Integration · Database Development
-
-**Email**
-`py0020524@gmail.com`
-
-**Resume**
-[View Experience & Resume](https://drive.google.com/file/d/1-FJaFCh7mJ5syW9muyzZrkfI7EWXA2h0/view)
+- 🔭 Currently building an **AI-Powered Mock Interview & Evaluation System**
+- 🌱 Currently learning **Django**
+- 💬 Ask me about **Frontend, Backend, API Integration, or Database Development**
+- 📫 Reach me at **py0020524@gmail.com**
 
 ---
 
-## CURRENTLY
+## 🛠️ Tech Stack
 
-|              |                                                             |
-| ------------ | ----------------------------------------------------------- |
-| **Building** | AI-Powered Mock Interview & Evaluation System               |
-| **Learning** | Django                                                      |
-| **Focus**    | Frontend · Backend · API Integration · Database Development |
+**Languages**
 
----
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## TECHNOLOGIES
+**Frontend**
 
-### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript"/>
-</p>
+**Backend & Database**
 
-### Frontend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="38" height="38" alt="HTML5"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="38" height="38" alt="CSS3"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="38" height="38" alt="React"/>
-&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="38" height="38" alt="Next.js"/>
-&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="38" height="38" alt="Tailwind CSS"/>
-</p>
+**Tools**
 
-### Backend & Database
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="38" height="38" alt="Node.js"/>
-&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="38" height="38" alt="Django"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="38" height="38" alt="MongoDB"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="38" height="38" alt="MySQL"/>
-&nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="38" height="38" alt="Firebase"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" height="38" alt="AWS"/>
-&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="38" height="38" alt="Figma"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="38" height="38" alt="Photoshop"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## CONNECT
+## 📊 GitHub Stats
 
-<p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en&theme=default&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince5489&layout=compact&locale=en&hide_border=true" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=prince5489&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/prince-yadav-dev/">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" alt="LinkedIn"/>
 </a>
@@ -114,31 +99,13 @@ Frontend · Backend · API Integration · Database Development
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.leetcode.com/prince5489">
+<a href="https://leetcode.com/prince5489">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" alt="LeetCode"/>
 </a>
 </p>
 
----
-
-## GITHUB
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince5489&show_icons=true&locale=en&layout=compact" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prince5489" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile.**
+**Thanks for visiting my profile — feel free to star a repo or drop a message!**
 
 </div>
