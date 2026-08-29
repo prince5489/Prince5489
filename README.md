@@ -1,116 +1,135 @@
 <div align="center">
 
-# 👋 Hey, I'm Prince Yadav
+# PRINCE YADAV
 
-### 💻 Full-Stack Developer & Software Developer
-
-*Building • Learning • Solving • Improving*
+### FULL-STACK DEVELOPER & SOFTWARE DEVELOPER
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=prince5489&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/prince-yadav-dev/">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/prince5489">LeetCode</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:py0020524@gmail.com">Email</a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=prince5489&label=PROFILE%20VIEWS&color=555555&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+## ABOUT
 
-🔭 **Currently Working On**
-**AI-Powered Mock Interview & Evaluation System**
+I’m a **Full-Stack Developer & Software Developer** focused on building modern and user-friendly applications.
 
-🌱 **Currently Learning**
-**Django**
+Currently working on an **AI-Powered Mock Interview & Evaluation System** and learning **Django**.
 
-💬 **Ask Me About**
-**Frontend • Backend • API Integration • Database Development**
+**Ask me about**
+Frontend · Backend · API Integration · Database Development
 
-📫 **Reach Me At**
-**[py0020524@gmail.com](mailto:py0020524@gmail.com)**
+**Email**
+`py0020524@gmail.com`
 
-📄 **My Experience**
-[View Resume](https://drive.google.com/file/d/1-FJaFCh7mJ5syW9muyzZrkfI7EWXA2h0/view)
+**Resume**
+[View Experience & Resume](https://drive.google.com/file/d/1-FJaFCh7mJ5syW9muyzZrkfI7EWXA2h0/view)
 
 ---
 
-## 🧰 Languages & Tools
+## CURRENTLY
 
-<div align="center">
+|              |                                                             |
+| ------------ | ----------------------------------------------------------- |
+| **Building** | AI-Powered Mock Interview & Evaluation System               |
+| **Learning** | Django                                                      |
+| **Focus**    | Frontend · Backend · API Integration · Database Development |
+
+---
+
+## TECHNOLOGIES
 
 ### Languages
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42" height="42" alt="Next.js"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="38" height="38" alt="HTML5"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="38" height="38" alt="CSS3"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="38" height="38" alt="React"/>
+&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="38" height="38" alt="Next.js"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="38" height="38" alt="Tailwind CSS"/>
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42" height="42" alt="Django"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" alt="Firebase"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="38" height="38" alt="Node.js"/>
+&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="38" height="38" alt="Django"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="38" height="38" alt="MongoDB"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="38" height="38" alt="MySQL"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="38" height="38" alt="Firebase"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" alt="Figma"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="42" height="42" alt="Photoshop"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" height="38" alt="AWS"/>
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="38" height="38" alt="Figma"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="38" height="38" alt="Photoshop"/>
 </p>
 
-</div>
+---
+
+## CONNECT
+
+<p>
+<a href="https://www.linkedin.com/in/prince-yadav-dev/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/prince_yaduvanshi_1011">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.leetcode.com/prince5489">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" alt="LeetCode"/>
+</a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## GITHUB
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/prince-yadav-dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="42" height="42" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/prince_yaduvanshi_1011" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42" height="42" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/prince5489" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="42" alt="LeetCode"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en" height="165" alt="GitHub Stats"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince5489&show_icons=true&locale=en&layout=compact" height="165" alt="Top Languages"/>
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en" height="170" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince5489&show_icons=true&locale=en&layout=compact" height="170" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince5489" alt="GitHub Streak"/>
 
@@ -120,6 +139,6 @@
 
 <div align="center">
 
-### 💻 Code. Build. Learn. Repeat. 🚀
+**Thanks for visiting my profile.**
 
 </div>
