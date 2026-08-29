@@ -40,45 +40,71 @@ I'm a **Full-Stack Developer** who enjoys building modern, user-friendly applica
 
 ## 🛠️ Tech Stack
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=1200" width="100%"/>
+
 <table align="center">
 <tr>
-<td align="center" valign="top" width="20%"><b>Languages</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" alt="Languages"/>
+<td align="center" valign="top" width="20%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark&perline=5" alt="Languages"/>
 </td>
-<td align="center" valign="top" width="20%"><b>Frontend</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend"/>
+<td align="center" valign="top" width="20%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark&perline=5" alt="Frontend"/>
 </td>
-<td align="center" valign="top" width="20%"><b>Backend & DB</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql,firebase" alt="Backend & Database"/>
+<td align="center" valign="top" width="20%">
+
+**Backend & DB**
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql,firebase&theme=dark&perline=5" alt="Backend & Database"/>
 </td>
-<td align="center" valign="top" width="20%"><b>Tools</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,figma,photoshop,git,github" alt="Tools"/>
+<td align="center" valign="top" width="20%">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,figma,photoshop,git,github&theme=dark&perline=5" alt="Tools"/>
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=1200" width="100%"/>
 
 ---
 
 ## 📊 GitHub Stats
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=1200" width="100%"/>
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en&theme=radical&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince5489&layout=compact&locale=en&theme=radical&hide_border=true&border_radius=12" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince5489&layout=compact&locale=en&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com/?user=prince5489&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=prince5489&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince5489&theme=radical&hide_border=true&radius=12" width="95%" alt="Contribution Graph"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince5489&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=prince5489&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prince5489&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=1200" width="100%"/>
 
 ---
 
