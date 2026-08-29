@@ -42,34 +42,31 @@ I'm a **Full-Stack Developer** who enjoys building modern, user-friendly applica
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&width=1200" width="100%"/>
 
-<table align="center">
-<tr>
-<td align="center" valign="top" width="20%">
+<div align="center">
 
-**Languages**
-
+<sub><b>LANGUAGES</b></sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark&perline=5" alt="Languages"/>
-</td>
-<td align="center" valign="top" width="20%">
 
-**Frontend**
+<sub>· · ·</sub>
 
+<sub><b>FRONTEND</b></sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark&perline=5" alt="Frontend"/>
-</td>
-<td align="center" valign="top" width="20%">
 
-**Backend & DB**
+<sub>· · ·</sub>
 
+<sub><b>BACKEND & DATABASE</b></sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql,firebase&theme=dark&perline=5" alt="Backend & Database"/>
-</td>
-<td align="center" valign="top" width="20%">
 
-**Tools**
+<sub>· · ·</sub>
 
+<sub><b>TOOLS</b></sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,figma,photoshop,git,github&theme=dark&perline=5" alt="Tools"/>
-</td>
-</tr>
-</table>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3&width=1200" width="100%"/>
 
@@ -82,21 +79,21 @@ I'm a **Full-Stack Developer** who enjoys building modern, user-friendly applica
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en&theme=radical&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince5489&layout=compact&locale=en&theme=radical&hide_border=true&border_radius=12" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince5489&layout=compact&locale=en&theme=radical&hide_border=true&border_radius=12&cache_seconds=1800" alt="Top Languages"/>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=prince5489&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=prince5489&theme=radical&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince5489&theme=radical&hide_border=true&radius=12" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince5489&theme=radical&hide_border=true&radius=12&area=true" width="95%" alt="Contribution Graph"/>
 
 <br/><br/>
 
