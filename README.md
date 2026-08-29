@@ -40,36 +40,22 @@ I'm a **Full-Stack Developer** who enjoys building modern, user-friendly applica
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" valign="top" width="20%"><b>Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" alt="Languages"/>
+</td>
+<td align="center" valign="top" width="20%"><b>Frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend"/>
+</td>
+<td align="center" valign="top" width="20%"><b>Backend & DB</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql,firebase" alt="Backend & Database"/>
+</td>
+<td align="center" valign="top" width="20%"><b>Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,figma,photoshop,git,github" alt="Tools"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,12 +63,20 @@ I'm a **Full-Stack Developer** who enjoys building modern, user-friendly applica
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en&theme=default&hide_border=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince5489&layout=compact&locale=en&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prince5489&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince5489&layout=compact&locale=en&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=prince5489&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=prince5489&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince5489&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=prince5489&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
